@@ -1,1 +1,10 @@
-{}
+{
+  "prettier.vueIndentScriptAndStyle": true,
+  "eslint.options": {},
+  "vue/multi-word-component-names": [
+    "error",
+    {
+      "ignores": []
+    }
+  ]
+}
